@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Ryan Thompson</h1>
 <h3 align="center">A Full Stack developer from Florida.</h3>
-<img align="right" alt="Coding" width="400" src="bit.ly/beardedcoder">
+<img align="right" alt="Coding" width="400" src="https://bit.ly/beardedcoder">
 
 
 
