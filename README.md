@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Michael Ryan Thompson</h1>
 <h3 align="center">A Full Stack developer from Florida.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=michaelryanthompson" alt="michaelryanthompson" /></a> </p>
-
 - 💬 Ask me about **React, .Net, and Sql**
 
 - 📫 How to reach me **hiremichaelthompson@gmail.com**
