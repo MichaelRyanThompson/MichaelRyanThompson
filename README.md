@@ -1,4 +1,3 @@
-[![MasterHead height="100"](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://www.linkedin.com/in/michaelryanthompson/)
 <h1 align="center">Hi 👋, I'm Michael Ryan Thompson</h1>
 <h3 align="center">A Full Stack developer from Florida.</h3>
 <img align="right" alt="Coding" width="400" src="https://bit.ly/beardedcoder">
