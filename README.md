@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **hiremichaelthompson@gmail.com**
 
-- 📄 Curious about my experience [https://bit.ly/mrtresume](https://bit.ly/mrtresume)
+- 📄 Curious about my experience [**https://bit.ly/mrtresume**](https://bit.ly/mrtresume)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
